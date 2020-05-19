@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053095630027",
+    "firebase_url": "https://yogdaan-63e49.firebaseio.com",
+    "project_id": "yogdaan-63e49",
+    "storage_bucket": "yogdaan-63e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053095630027:android:532d33e1a03ec42cb5f74e",
+        "android_client_info": {
+          "package_name": "com.example.yogdaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053095630027-7i13o26181q5e2sdodkvhdaq7gefo274.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkvwmBjrT1-YJl4fgSRt7WhMF_rv_DXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053095630027-7i13o26181q5e2sdodkvhdaq7gefo274.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
